@@ -1,6 +1,7 @@
 # Shout
 
-**TODO: Add description**
+Shout is a thin wrapper around the Client Feedback Tool api. The intention is to eventually consume all of the Client Feedback Tool api but at the moment I'm exposing the endpoint I need for other projects.
+
 
 ## Installation
 

@@ -4,7 +4,7 @@ defmodule Shout.Client do
   """
   defstruct [
     auth: nil,
-    endpoint: "https://clientfeedbacktool.com/api/"
+    endpoint: "https://clientfeedbacktool.com/api"
   ]
 
   def from_json!(map) do
